@@ -12,4 +12,5 @@ __Features__
 3) Interactive Website: Developed using PyCharm and Streamlit, allowing users to easily interact with the recommender system.
 
 The movie titles and movie posters are listed on the website.
+
 ![image](https://github.com/ShrutiRenuse18/movie/assets/100444153/47291e62-f714-4ddf-8f15-f14b83bb7791)
